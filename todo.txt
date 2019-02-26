@@ -1,0 +1,3 @@
+todo:
+    move bgstyles out of function to seperate file maybe?
+    
